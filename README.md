@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Heet Golakiya (@heetgolakiya21)
+# 👋 Hi, I’m Hit Golakiya (@hitgolakiya21)
 
 - 👀 I’m interested in **software development, web development, and  mobile app development.**
 - 🌱 I’m currently pursuing an **MCA at Parul University.**
